@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    margin: 0;
+  }
+
+.head{
+    padding-bottom: 0;
+    padding-top: 60px;
+    text-align: center;
+    background: lightcyan;
+    color: cornflowerblue;
+    font-size: 30px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    width: 50%;
+  }
+
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 275px;
+    font-size: 18px;
+}
+
+.bottomleft {
+    position: absolute;
+    bottom: 8px;
+    left: 275px;
+    font-size: 18px;
+}
